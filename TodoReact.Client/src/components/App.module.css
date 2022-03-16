@@ -1,0 +1,39 @@
+.header {
+    background-color: #ffa2a6;
+    border-radius: 25px;
+    margin: 20px auto 10px auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 200px;
+}
+
+.form_holder {
+    display: flex;
+    flex-direction: column;
+}
+
+.form_control {
+    margin: 10px 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.button_bottom_right {
+    justify-content: flex-end;
+    display: flex;
+    margin-right: 4%;
+    margin-bottom: 1%;
+}
+
+.button {
+    width: 60px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.h2 {
+    margin-left: 3%;
+    
+}

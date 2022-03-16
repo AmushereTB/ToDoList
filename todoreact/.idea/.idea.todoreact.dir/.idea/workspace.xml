@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf506324-77f3-4ac2-8656-fd38a4395aba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/.idea/.idea.todoreact.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/.idea/.idea.todoreact.dir/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/.idea/.idea.todoreact.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/.idea/.idea.todoreact.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/.idea/.idea.todoreact.dir/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/.idea/.idea.todoreact.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/components/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/components/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/components/DoneList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/components/Interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/components/TodoCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/components/TodoList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoReact.Client/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.todoreact.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.todoreact.dir/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.todoreact.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.todoreact.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.todoreact.dir/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.todoreact.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DoneList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Interfaces.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25w66wONwav7TEifbLmhKGsTDH9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.tsx" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.renders learn react link" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf506324-77f3-4ac2-8656-fd38a4395aba" name="Changes" comment="" />
+      <created>1646425640504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646425640504</updated>
+      <workItem from="1646425644334" duration="7967000" />
+      <workItem from="1646470359865" duration="52296000" />
+      <workItem from="1646644813258" duration="249000" />
+      <workItem from="1646684297543" duration="283000" />
+      <workItem from="1647269924779" duration="1547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
